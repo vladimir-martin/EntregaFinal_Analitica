@@ -1,0 +1,51 @@
+OBJECTID_1;LECCODIGO;LECNOMBRE;LECDIRECCI;LECTELEFON;LECEMAIL;LECPAGWEB;LECCODLOC;LECNOMLOC;LECCODUPZ;LECNOMUPZ;LECCODSEC;LECNOMSEC;LECESTADO;LECCLASIF;LECCONTACTO;LECANIO
+25;25;Floresta;KR 68  90 - 88;N.A;N.A;N.A;12;BARRIOS UNIDOS;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+26;26;Multiplaza;CL 19 A  73 - 45;N.A;N.A;N.A;09;FONTIBON;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+27;27;Plaza Imperial;CL 146  106 - 20;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+28;28;Trebolis El Porvenir;KR 95  49 C - 80;N.A;N.A;N.A;07;BOSA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+29;29;Americas;TV 71 D  6 - 94;N.A;N.A;N.A;08;KENNEDY;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+30;30;Bulevar;KR 58  127 - 59;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+31;31;Centro Suba;CL 140  91 - 19;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+32;32;Diver Plaza Alamos;TV 96  70 A - 85;N.A;N.A;N.A;10;ENGATIVA;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+33;714;Palatino;KR 7 A  139 - 07;N.A;N.A;N.A;01;USAQUEN;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+34;34;Portal de la Sabana;DG 16  104 - 51;N.A;N.A;N.A;09;FONTIBON;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+35;35;Salitre Plaza;KR 68 B  40 - 39;N.A;N.A;N.A;09;FONTIBON;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+36;36;Tintal Plaza;TV 86  6 - 37;N.A;N.A;N.A;08;KENNEDY;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+37;37;Tunal;CL 47 B  24 B - 33 Sur;N.A;N.A;N.A;06;TUNJUELITO;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+38;38;Bima;Autopista norte  232 - 35;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+39;39;Unicentro Occidente;KR 111 C  86 - 74;N.A;N.A;N.A;10;ENGATIVA;N.A;N.A;N.A;N.A;N.A;Procinal;N.A;N.A
+40;40;Calima;KR 30  19 - 30;N.A;N.A;N.A;14;LOS MARTIRES;N.A;N.A;N.A;N.A;N.A;Cinepolis;N.A;N.A
+41;41;Cinepolis Hayuelos;CL 20  85 - 52;N.A;N.A;N.A;09;FONTIBON;N.A;N.A;N.A;N.A;N.A;Cinepolis;N.A;N.A
+42;42;VIP Plaza Claro;DG 24 C  68 - 1;N.A;N.A;N.A;09;FONTIBON;N.A;N.A;N.A;N.A;N.A;Cinepolis;N.A;N.A
+43;715;Cinemania;KR 4  93 A - 85;N.A;N.A;N.A;02;CHAPINERO;N.A;N.A;N.A;N.A;N.A;Cinemania;N.A;N.A
+44;716;Cinema paraiso;KR  6  120 A - 52;N.A;N.A;N.A;01;USAQUEN;N.A;N.A;N.A;N.A;N.A;Cinema Paraiso;N.A;N.A
+45;717;Cine Tonalá;KR 6  35 - 37;N.A;N.A;N.A;03;SANTA FE;N.A;N.A;N.A;N.A;N.A;Cine Tonalá;N.A;N.A
+46;718;Cine Club el Muro;KR 13  64 - 16;N.A;N.A;N.A;02;CHAPINERO;N.A;N.A;N.A;N.A;N.A;Cine Club el Muro;N.A;N.A
+47;47;Cine Club la Chimenea;KR 90  147 - 44;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cine Club la Chimen*;N.A;N.A
+48;719;Cinemateca Distrital;KR 7  22 - 79;N.A;N.A;N.A;03;SANTA FE;N.A;N.A;N.A;N.A;N.A;IDARTES;N.A;N.A
+49;720;Cinemateca de Bogotá;KR 3  19 - 10;N.A;N.A;N.A;03;SANTA FE;N.A;N.A;N.A;N.A;N.A;IDARTES;N.A;N.A
+50;721;Cinemark Gran Plaza El Ensueño;CL 59 C Sur No. 61 - 21;N.A;N.A;N.A;19;CIUDAD BOLIVAR;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+1;705;Cine Colombia Andino;KR 12  82 - 02;N.A;N.A;N.A;02;CHAPINERO;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+2;706;Cine Colombia Avenida Chile;CL 72  10 - 34;N.A;N.A;N.A;02;CHAPINERO;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+3;3;Cine Colombia Calle 100;TV 55  98 A - 66;N.A;N.A;N.A;12;BARRIOS UNIDOS;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+4;707;Cine Colombia Cedritos;DG 150  31 - 56;N.A;N.A;N.A;01;USAQUEN;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+5;5;Cine Colombia Centro Mayor;CL 38 A sur -  34 D - 50;N.A;N.A;N.A;15;ANTONIO NARIÑO;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+6;708;Cine Colombia Embajador;CL 24  6 - 01;N.A;N.A;N.A;03;SANTA FE;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+7;7;Cine Colombia Galerías;CL 53 B  25 - 21;N.A;N.A;N.A;13;TEUSAQUILLO;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+8;8;Cine Colombia Gran Estación;CL 26  62 - 42;N.A;N.A;N.A;13;TEUSAQUILLO;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+9;9;Cine Colombia Las Americas;TV 71 D  4 - 40;N.A;N.A;N.A;08;KENNEDY;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+10;10;Cine Colombia Metrópolis;KR 68  75 A - 50;N.A;N.A;N.A;12;BARRIOS UNIDOS;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+11;11;Cine Colombia Plaza Central;KR 65  11 - 50;N.A;N.A;N.A;16;PUENTE ARANDA;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+12;12;Cine Colombia Portal 80;CL 80  100 - 52;N.A;N.A;N.A;10;ENGATIVA;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+13;13;Cine Colombia Portoalegre;KR 58 A  137 B - 01;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+14;709;Cine Colombia Santa Barbara;CL 114  6 A - 92;N.A;N.A;N.A;01;USAQUEN;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+15;15;Cine Colombia Santafé Bogotá;CL 185  45 - 03;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+16;16;Cine Colombia Titán Plaza;KR 72  80 - 94;N.A;N.A;N.A;10;ENGATIVA;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+17;710;Cine Colombia Unicentro;Av 15  124 - 30;N.A;N.A;N.A;01;USAQUEN;N.A;N.A;N.A;N.A;N.A;Cine Colombia;N.A;N.A
+18;711;Multicine San Martín;KR 7  32 - 30;N.A;N.A;N.A;03;SANTA FE;N.A;N.A;N.A;N.A;N.A;Royal Films;N.A;N.A
+19;712;Multicine Altavista;KR 1  65 D - 58 Sur;N.A;N.A;N.A;05;USME;N.A;N.A;N.A;N.A;N.A;Royal Films;N.A;N.A
+20;713;Atlantis;CL 81  13 - 05;N.A;N.A;N.A;02;CHAPINERO;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+21;21;Gran Plaza Bosa;CL 65 sur  78 h - 51;N.A;N.A;N.A;07;BOSA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+22;22;Micentro Porvenir;CL 54 f sur  93 c - 18;N.A;N.A;N.A;07;BOSA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+23;23;Parque la Colina;KR 58 D  145 - 51;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
+24;24;San Rafael;CL 134  55 - 30;N.A;N.A;N.A;11;SUBA;N.A;N.A;N.A;N.A;N.A;Cinemark;N.A;N.A
