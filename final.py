@@ -11,7 +11,11 @@ st.set_page_config(page_title="Turismo en Bogotá", page_icon="https://www.shd.g
 
 
 #se cargan las bases de datos, para algunas se hace necesario especificar el separador y el encoding.
-rnt = pd.read_csv('Registro_Nacional_de_Turismo_-_RNT_2.csv')
+rnt_1=pd.read_csv('rnt_1.csv')
+rnt_2=pd.read_csv('rnt_2.csv')
+rnt_3=pd.read_csv('rnt_3.csv')
+rnt_u1 = pd.concat([rnt_1, rnt_2])
+rnt=pd.concat([rnt_u1,rnt_3])
 arpro = pd.read_csv('areas_protegidas_1.csv', sep = ';')
 teatro = pd.read_csv('teatrosyauditorios_3.csv',encoding='latin-1',sep=";")
 museos = pd.read_csv('museos_5.csv',encoding='latin-1',sep=";")
