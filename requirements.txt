@@ -2,7 +2,6 @@ pandas
 plotly
 streamlit
 datetime
-openpyxl
-Pydeck
+pydeck
 
 
